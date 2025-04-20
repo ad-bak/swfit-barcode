@@ -130,3 +130,8 @@ credentials.json
 *.sublime-workspace
 *.sublime-project
 
+
+# Add these lines to your .gitignore
+*.xcodeproj/project.pbxproj
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
